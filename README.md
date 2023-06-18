@@ -1,20 +1,20 @@
 # Django-Web-Store
 
-Projekt w jezyku Python stworzony przy uzyciu frameworka Django.
+Projekt w języku Python stworzony przy użyciu frameworka Django.
 
 
 ## Funkcje
-- Logowanie i rejestracja uzytkownika
-- Dodanie przedmiotu do sklepu i przydzielenie go do odpowieddniej kategorii
-- Eycja i usuwanie przedmiotow
-- Wyszukiwanie przedmiotow
-- Komunikacja z innymi uzytkownikami
+- Logowanie i rejestracja użytkownika
+- Dodanie przedmiotu do sklepu i przydzielenie go do odpowiedniej kategorii
+- Edycja i usuwanie przedmiotów
+- Wyszukiwanie przedmiotów
+- Komunikacja z innymi użytkownikami
 
 
 ## Uruchomienie projektu
 - Sklonuj repozytorium do wybranego folderu
-- Przejdz do folderu z projektem
-- Wymagana bedzie instalacja niezbednych paczek i konfiguracja zmiennej srodowiskowej
+- Przejdź do folderu z projektem
+- Wymagana będzie instalacja niezbędnych paczek i konfiguracja zmiennej środowiskowej
 ```
 python3 -m venv env
 source env/bin/activate
